@@ -2,13 +2,14 @@
 
 [← 返回 jjvbwf 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **15** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **16** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（3篇）
+## 预测模型（4篇）
 
 - [2026年10月全局沙盘预测:今日欧冠足球推荐-极客财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2026%E5%B9%B410%E6%9C%88%E5%85%A8%E5%B1%80%E6%B2%99%E7%9B%98%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%AC%A7%E5%86%A0%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E6%9E%81%E5%AE%A2%E8%B4%A2%E7%BB%8F.md) — 皇冠2400足球比分主题解读 <!-- gitflow:article:8b83702fcba30522263c96351ccb9dba988915ed0bcce5095943b10ec0ff991e -->
 - [2027年10月数据模型预测:今日日本足球预测推荐-珠江财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2027%E5%B9%B410%E6%9C%88%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%8E%A8%E8%8D%90-%E7%8F%A0%E6%B1%9F%E8%B4%A2%E7%BB%8F.md) — 足球比分主题解读 <!-- gitflow:article:df48dfe1a0de520ee7ea5b3c57af5c56c4f0404dfed47e7b0fdf5565b71edecb -->
+- [2027年10月深度机构预测:今日中超足球推荐分析-大宋财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2027%E5%B9%B410%E6%9C%88%E6%B7%B1%E5%BA%A6%E6%9C%BA%E6%9E%84%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E4%B8%AD%E8%B6%85%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E5%88%86%E6%9E%90-%E5%A4%A7%E5%AE%8B%E8%B4%A2%E7%BB%8F.md) — 皇冠足球ios下载主题解读 <!-- gitflow:article:5acfef2ec8c42382f28bf01d2192bcd1054a8d9c3f4d1754a63b3232b0316862 -->
 - [2027年10月理性推演预测:今日欧联足球推荐-银盛财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2027%E5%B9%B410%E6%9C%88%E7%90%86%E6%80%A7%E6%8E%A8%E6%BC%94%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%AC%A7%E8%81%94%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E9%93%B6%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) — 皇冠足球90比分比分主题解读 <!-- gitflow:article:2c2ab42389dd9171659b692466d6503da95701896c89b1bd0cbf003635bcdfc3 -->
 
 ## 玩法规则（12篇）
