@@ -2,9 +2,13 @@
 
 [← 返回 jjvbwf 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **8** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **9** 篇。
 
 <!-- gitflow:articles:start -->
+## 预测模型（1篇）
+
+- [2027年10月理性推演预测:今日欧联足球推荐-银盛财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2027%E5%B9%B410%E6%9C%88%E7%90%86%E6%80%A7%E6%8E%A8%E6%BC%94%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%AC%A7%E8%81%94%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E9%93%B6%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) — 皇冠足球90比分比分主题解读 <!-- gitflow:article:2c2ab42389dd9171659b692466d6503da95701896c89b1bd0cbf003635bcdfc3 -->
+
 ## 玩法规则（8篇）
 
 - [2026年10月智库独家预测:今日亚冠足球推荐新浪-建泰财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E5%BA%93%E7%8B%AC%E5%AE%B6%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E4%BA%9A%E5%86%A0%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E6%96%B0%E6%B5%AA-%E5%BB%BA%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) — 掌上皇冠足球app主题解读 <!-- gitflow:article:7b9bc3d44ceea890ded63668fcc680a432d82d3ed48d33041ffe134e1be02b4a -->
