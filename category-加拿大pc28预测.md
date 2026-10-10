@@ -2,11 +2,12 @@
 
 [← 返回 jjvbwf 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **125** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **126** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（51篇）
+## 预测模型（52篇）
 
+- [2026年10月专业精准预测:国王杯足球预测-成泰财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2026%E5%B9%B410%E6%9C%88%E4%B8%93%E4%B8%9A%E7%B2%BE%E5%87%86%E9%A2%84%E6%B5%8B-%E5%9B%BD%E7%8E%8B%E6%9D%AF%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B-%E6%88%90%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) — pc28杀余算法主题解读 <!-- gitflow:article:c9c18ec96a2f1f1753a3c871b9e24fb43d2653a09014140fee992634c5a37f9d -->
 - [2026年10月专业精准预测:欧冠比分足球预测最新-数科财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2026%E5%B9%B410%E6%9C%88%E4%B8%93%E4%B8%9A%E7%B2%BE%E5%87%86%E9%A2%84%E6%B5%8B-%E6%AC%A7%E5%86%A0%E6%AF%94%E5%88%86%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%9C%80%E6%96%B0-%E6%95%B0%E7%A7%91%E8%B4%A2%E7%BB%8F.md) — 计划北京快乐pc28主题解读 <!-- gitflow:article:e72b6ced0e7361e411d98282d23ceefb317b18fc0493a3e960cfa13d69368d27 -->
 - [2026年10月专家模型预测:今日曼城足球推荐-祥泰财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2026%E5%B9%B410%E6%9C%88%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%9B%BC%E5%9F%8E%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E7%A5%A5%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) — 加拿大pc28预测99主题解读 <!-- gitflow:article:21051afc9598fa03cdd24f4d030ac2bd343785abd05c12af54c596bd03fa4998 -->
 - [2026年10月专家趋势预测:今日中超足球推荐-高科财经](https://github.com/kelseynrichmond/jjvbwf/blob/main/2026%E5%B9%B410%E6%9C%88%E4%B8%93%E5%AE%B6%E8%B6%8B%E5%8A%BF%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E4%B8%AD%E8%B6%85%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E9%AB%98%E7%A7%91%E8%B4%A2%E7%BB%8F.md) — 皇冠世界杯足球主题解读 <!-- gitflow:article:d5ef4cda15f16272ecaa15d548487db3c94c7f52e7e8f3cc88a15b58e7155048 -->
